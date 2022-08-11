@@ -12,7 +12,7 @@ public class Main {
     }
 
     private static String[][] createArray() {
-        String[][] array = new String[4][5];
+        String[][] array = new String[4][4];
         for (int i = 0; i < array.length; i++,System.out.println()) {
             for (int j = 0; j < array[i].length; j++) {
                 array[i][j] = String.valueOf((int)(Math.random() * 10));
