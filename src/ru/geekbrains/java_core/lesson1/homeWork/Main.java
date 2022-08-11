@@ -10,7 +10,7 @@ public class Main {
         Team dreamTeam = new Team("Команда Чемпионов",
                 new TeamMember("Участник №1", 4),
                 new TeamMember("Участник №2", 5),
-                new TeamMember("Участник №3", 6),
+                new TeamMember("Участник №3", 3),
                 new TeamMember("Участник №4" ,7));
 
         Course course = new Course(new Cross(5), new Swimming(5), new Fight(6),
