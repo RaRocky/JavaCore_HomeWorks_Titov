@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         String[][] strings = createArray();
-        //strings[2][3]="K";
+        strings[2][3]="#";
         ArrayChecker arrayChecker = new ArrayChecker();
         arrayChecker.setStrings(strings);
 
