@@ -15,7 +15,7 @@ public class Demo2_1 {
 
 //        RuntimeExceptionDemo.getArrayIndexOutOfBoundsException();
 //        RuntimeExceptionDemo.getStringIndexOutOfBoundsException();
-//        RuntimeExceptionDemo.getClassCastException();
+        RuntimeExceptionDemo.getClassCastException();
 //        RuntimeExceptionDemo.getNullPointerException();
 //        RuntimeExceptionDemo.getInputMismatchException(); // print 'hello'
     }
