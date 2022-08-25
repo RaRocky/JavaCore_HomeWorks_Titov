@@ -1,8 +1,5 @@
 package ru.geekbrains.java_core.lesson5.HomeWork;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
 import java.util.Arrays;
 
 public class HomeWork {
